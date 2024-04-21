@@ -17,6 +17,7 @@ This project uses the following Python libraries:
 ## Model
 
 The project uses a trained YOLO model (`bestv8.pt`) for object detection.
+`IMPORTANT:` Download the model directly here as raw file.
 
 ## Usage
 
